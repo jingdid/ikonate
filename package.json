@@ -27,7 +27,7 @@
   "license": "MIT",
   "dependencies": {
     "@xmldom/xmldom": "^0.8.11",
-    "jsdom": "11.10.0",
+    "jsdom": "^27.0.0",
     "pretty": "^2.0.0"
   },
   "devDependencies": {
